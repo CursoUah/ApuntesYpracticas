@@ -1,0 +1,1 @@
+Haced un script que calcule el factorial de un numero pasado por parámetro.
