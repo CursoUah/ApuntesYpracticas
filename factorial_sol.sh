@@ -10,4 +10,4 @@ while [ $counter -gt 0 ];do
 
 
 done
-echo $factorial
+echo "El resultado del numero introducido es: " $factorial
