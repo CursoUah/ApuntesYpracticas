@@ -1,4 +1,0 @@
-find: «/home/desarrollo/.cache/thumbnails»: Permiso denegado
-find: «/home/desarrollo/.cache/dconf»: Permiso denegado
-find: «/home/desarrollo/.gvfs»: Permiso denegado
-find: «/home/desarrollo/.dbus»: Permiso denegado
