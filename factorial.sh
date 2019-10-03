@@ -6,4 +6,3 @@ while [ $contador -gt 0 ];do
 	contador=$(($contador-1))
 done
 echo "resultado" $resultado
-
